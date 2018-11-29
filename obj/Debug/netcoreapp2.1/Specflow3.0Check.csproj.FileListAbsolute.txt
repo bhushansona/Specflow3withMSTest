@@ -1,0 +1,15 @@
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\obj\Debug\netcoreapp2.1\Specflow3.0Check.csproj.CoreCompileInputs.cache
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\obj\Debug\netcoreapp2.1\Specflow3.0Check.AssemblyInfoInputs.cache
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\obj\Debug\netcoreapp2.1\Specflow3.0Check.AssemblyInfo.cs
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\Specflow3Check.deps.json
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\Specflow3Check.runtimeconfig.json
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\Specflow3Check.runtimeconfig.dev.json
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\Specflow3Check.dll
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\bin\Debug\netcoreapp2.1\Specflow3Check.pdb
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\obj\Debug\netcoreapp2.1\Specflow3Check.dll
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\obj\Debug\netcoreapp2.1\Specflow3Check.pdb
+C:\Users\inbsona\Documents\Visual Studio 2017\Projects\Specflow3.0Check\Specflow3.0Check\obj\Debug\netcoreapp2.1\Specflow3.0Check.csprojAssemblyReference.cache
